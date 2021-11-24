@@ -1,33 +1,15 @@
-# Website
+# Tanger 的知识库
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## 简介
 
-### Installation
+本仓库为 Tanger 的仓库，本知识库的模板为[Docusaurus](https://www.docusaurus.cn/)进行基本的架构，包管理为 yarn，前端框架为 react，本仓库在技术上的内容并不多，本仓库的主要内容是本仓库的最大的亮点 ⭐。
 
-```
-$ yarn
-```
+预览地址：https://tanger.ltd/knowledge_web/
 
-### Local Development
+效果：
 
-```
-$ yarn start
-```
+## 参与奉献
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## 结语
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+如果喜欢的话不妨点个 Star，给作者多点动力吧~ 😀
