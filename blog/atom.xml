@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>Tanger的知识库 Blog</title>
+    <updated>2021-11-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>Tanger的知识库 Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[一切的开始]]></title>
+        <id>long-blog-post</id>
+        <link href="https://your-docusaurus-test-site.com/blog/long-blog-post"/>
+        <updated>2021-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这个知识库于 2021/11/24 正式被建立]]></summary>
+        <content type="html"><![CDATA[<p>这个知识库于 2021/11/24 正式被建立</p><p>让我们开始吧</p><h2></h2>]]></content>
+        <author>
+            <name>redhat123456</name>
+            <uri>https://github.com/redhat123456</uri>
+        </author>
+    </entry>
+</feed>

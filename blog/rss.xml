@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Tanger的知识库 Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>Tanger的知识库 Blog</description>
+        <lastBuildDate>Wed, 24 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[一切的开始]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/long-blog-post</link>
+            <guid>long-blog-post</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[这个知识库于 2021/11/24 正式被建立]]></description>
+            <content:encoded><![CDATA[<p>这个知识库于 2021/11/24 正式被建立</p><p>让我们开始吧</p><h2></h2>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
