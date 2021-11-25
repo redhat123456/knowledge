@@ -9,7 +9,7 @@ const config = {
   title: 'Tanger的知识库',
   tagline: '专注 、 认真  、 知识总结',
   url: 'https://tanger.ltd/knowledge/',
-  baseUrl: '/',
+  baseUrl: '/knowledge/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
