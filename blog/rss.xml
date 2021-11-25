@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Tanger的知识库 Blog</title>
-        <link>https://tanger.ltd/knowledge/blog</link>
+        <link>https://tanger.ltd/knowledge/knowledge/blog</link>
         <description>Tanger的知识库 Blog</description>
         <lastBuildDate>Wed, 24 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[一切的开始]]></title>
-            <link>https://tanger.ltd/knowledge/blog/long-blog-post</link>
+            <link>https://tanger.ltd/knowledge/knowledge/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[这个知识库于 2021/11/24 正式被建立]]></description>
