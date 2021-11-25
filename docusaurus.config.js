@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Tanger的知识库',
   tagline: '专注 、 认真  、 知识总结',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://tanger.ltd/knowledge/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'redhat123456', // Usually your GitHub org/user name.
-  projectName: 'knowledge-web', // Usually your repo name.
+  projectName: 'knowledge', // Usually your repo name.
 
   presets: [
     [
