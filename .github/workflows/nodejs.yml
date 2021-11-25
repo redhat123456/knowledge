@@ -13,8 +13,8 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          yarn
-          yarn build
+          npm install
+          npm run build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.6
         with:
@@ -24,4 +24,4 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
           FOLDER: build
-          BUILD_SCRIPT: yarn && yarn build
+          BUILD_SCRIPT: npm install && npm run build
