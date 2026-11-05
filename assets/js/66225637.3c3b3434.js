@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website||=[]).push([[252],{9550(t){t.exports=JSON.parse('{"authors":[{"name":"redhat123456","title":"Front End Engineer @ Guilin University Of Electronic Technology","url":"https://github.com/redhat123456","imageURL":"https://avatars.githubusercontent.com/u/57751257?v=4","key":"redhat123456","page":null,"count":1}]}')}}]);
