@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Tanger的知识库',
   tagline: '专注 、 认真  、 知识总结',
-  url: 'https://knowledge.tanger.ltd/',
-  baseUrl: 'baseUrl: '/knowledge/',
+  url: 'https://redhat123456.github.io',
+  baseUrl: '/knowledge/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
